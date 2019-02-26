@@ -13,5 +13,8 @@
     1. Grand Central Dispatch（GCD）概要
     2. GCD的API
     3. GCD实现
+4. [Objective-C Runtime Programming Guide](http://xiefan.me/2016/10/04/Objective-C-Runtime-Programming-Guide%E6%96%87%E6%A1%A3%E5%92%8C%E7%AC%94%E8%AE%B0/)
 
-> 参考文献：Objective-C 高级编程（iOS与OS X多线程和内存管理）
+> 参考文献：
+> Objective-C 高级编程（iOS与OS X多线程和内存管理）
+> [Objective-C Runtime Programming Guide](http://xiefan.me/2016/10/04/Objective-C-Runtime-Programming-Guide%E6%96%87%E6%A1%A3%E5%92%8C%E7%AC%94%E8%AE%B0/)
